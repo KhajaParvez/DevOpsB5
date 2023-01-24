@@ -36,7 +36,7 @@ pipeline {
         stage ('Monitor') {  
                 ...  
         }  
-	stage ('Notify') {
+	stage ('Notifications') {
 		...
 	}
     }
